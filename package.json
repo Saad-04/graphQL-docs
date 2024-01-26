@@ -1,0 +1,26 @@
+{
+  "name": "graphql-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saad-04/GraphQL-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saad-04/GraphQL-docs/issues"
+  },
+  "homepage": "https://github.com/saad-04/GraphQL-docs#readme",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.7.3",
+    "graphql": "^16.6.0"
+  }
+}
